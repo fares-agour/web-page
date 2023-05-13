@@ -1,0 +1,111 @@
+
+h1 {
+    color: rgb(16, 2, 65);
+    text-decoration: line-through;
+    text-align: center;
+    font-style: oblique;
+}
+
+body {
+    color: rgb(239, 161, 177);
+    background-color: rgb(69, 139, 141);
+    border: 22px dashed rgb(100, 100, 217);
+    border-radius: 2px;
+    padding: 40px;
+    margin: 0px;
+    /* background: url("F:\\Gallery\\artwork\\digital-art\\Untitled-4.png"); */
+    /* background-repeat: no-repeat;
+    background-size: contain */
+    font-family: 'RichEatinAllCaps';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    min-width: 750px;
+    /* max-width: 1000px; */
+    text-align: center;
+
+}
+
+input {
+    font-family: 'RichEatinAllCaps';
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+select {
+    font-family: 'RichEatinAllCaps';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+    color: rgb(206, 198, 198);
+    font-family: 'RichEatinAllCaps';
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    color: rgb(229, 164, 0);
+}
+
+input {
+    border: 2px solid rgb(211, 0, 141);
+
+}
+
+#enter {
+    border: 3px solid black;
+}
+
+textarea {
+    border: 3px double rgb(0, 0, 0);
+}
+
+#m {
+    color: rgb(158, 144, 210);
+}
+
+#f {
+    color: rgb(158, 144, 210);
+}
+
+#i {
+    color: rgb(155, 195, 209);
+    /* margin-right: 90px; */
+}
+
+#r {
+    border-radius: 3px;
+    background-color: rgb(88, 175, 229);
+    width: 70px;
+    height: 39px;
+    font-size: inherit;
+    border: yellow solid 3px;
+}
+
+#s {
+    color: aliceblue;
+    /* border: 4px solid rgb(200, 65, 200); */
+    border-radius: 19px;
+    background-color: rgb(33, 33, 73);
+    width: 92px;
+    height: 49px;
+    font-size: inherit;
+
+}
+
+#t {
+    background-color: rgb(180, 104, 104);
+}
+
+#num {
+    border: 2px solid rgb(179, 243, 106);
+    /* margin-right: 97px; */
+    text-align: center;
+}
+
+/* * {
+    color: black;
+} */
