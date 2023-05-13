@@ -1,2 +1,2 @@
 # web page exercise
- my first web bage with HTML and CSS before bootstrap
+ my first web page with HTML and CSS **before bootstrap**
