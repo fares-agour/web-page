@@ -1,10 +1,8 @@
 # web-page
 my first web page project
 
-my final web-page set before bootstrap (main page)[file:///C:/Users/hydro/OneDrive/Documents/fares/html/html_css%20basics.html] 
-click log in in this page to see the other pages.
+my final web-page set before bootstrap here some screenshot:-
 
-here some screenshot:-
-![alt text](C:\Users\hydro\Downloads\main_page.png)
-![alt text](C:\Users\hydro\Downloads\sign_up.png)
-![alt text](C:\Users\hydro\Downloads\success_page.png)
+![main_page](https://github.com/fares-agour/web-page/assets/116801554/ccf2d97c-52a6-4ec2-82bf-6a076020b971)
+![sign_up](https://github.com/fares-agour/web-page/assets/116801554/84f3e5fd-2c07-4fc3-bef4-91ab6cb6c355)
+![success_page](https://github.com/fares-agour/web-page/assets/116801554/0f3dc891-c4cf-4666-90b1-08e1e095568a)
